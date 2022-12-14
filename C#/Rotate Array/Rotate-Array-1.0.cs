@@ -18,8 +18,6 @@
                 }
 
                 nums[tempIndex] = orignal[i];
-
-               
             }
         }
             

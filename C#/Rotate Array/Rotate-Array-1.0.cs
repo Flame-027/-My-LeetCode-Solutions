@@ -17,7 +17,7 @@
                    tempIndex = adjustIndex(tempIndex, nums.Length);
                 }
 
-                nums[tempIndex] = orignal[i];  
+                nums[tempIndex] = orignal[i];
             }
         }
             
